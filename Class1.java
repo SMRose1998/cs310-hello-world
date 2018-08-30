@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Sabrina Rosenbaum
  */
 
 public class Class1 {
